@@ -1,0 +1,6 @@
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\лаб7\лаб7\obj\Debug\лаб7.csprojResolveAssemblyReference.cache
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\лаб7\лаб7\bin\Debug\лаб7.exe.config
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\лаб7\лаб7\bin\Debug\лаб7.exe
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\лаб7\лаб7\bin\Debug\лаб7.pdb
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\лаб7\лаб7\obj\Debug\лаб7.exe
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\лаб7\лаб7\obj\Debug\лаб7.pdb
